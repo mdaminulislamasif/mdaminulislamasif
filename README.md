@@ -29,9 +29,7 @@ cd Facebook_hack
 bash setup
 ``` 
 ```python
-```python
-
-``` 
+python facebook_hack.py
 ``` 
 ### **usage:)**
 
