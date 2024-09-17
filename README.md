@@ -24,7 +24,7 @@ apt install git -y
 git clone https://github.com/mdaminulislamasif/facebook-hack.git
 ``` 
 ```python
-cd Facebook_hack
+cd mdaminulislamasif
 ``` 
 ```python
 bash setup
