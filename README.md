@@ -30,7 +30,7 @@ cd mdaminulislamasif
 bash setup
 ``` 
 ```python
-python facebook_hack.py
+python mdaminulislamasif.py
 ``` 
 ### **usage:)**
 
